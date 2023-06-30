@@ -10,3 +10,13 @@ Enter unique PC lvl:x
 
 Create Next.js app for frontend
 Visual breakdown
+
+React APP idea:
+
+Adventuring_Party
+- Creates "Flights" a flight runs an instance of a campaign
+- Enter player character with (pre-load) option
+- Starts/End Boss fights
+- Does manage a battle, does not manage items/loot
+- Does record fight, does not save to DB
+
